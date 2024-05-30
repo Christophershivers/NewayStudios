@@ -7,6 +7,6 @@
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 referrerpolicy="strict-origin-when-cross-origin"
-class="aspect-video	w-[100%] min-h-screen pt-[93px]" 
+class="aspect-video	w-[100%] h-[calc(100dvh)] pt-[93px]" 
 allowfullscreen>
 </iframe>
