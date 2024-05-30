@@ -87,7 +87,7 @@
 <div class="min-h-[500px] pt-5 grid justify-center items-center">
     <div class="grid justify-center ">
         <div>
-            <h1 class="bulma-title flex justify-center">Our Gear</h1>
+            <h1 class="bulma-title flex justify-center text-[#2E333D]">Our Gear</h1>
             <div class=" w-[1000px]">
                 <Carousel.Root opts={{align: "start", loop:true}} plugins={[plugin]} on:mouseenter={plugin.stop} on:mouseleave={plugin.reset}>
                     <Carousel.Content>
