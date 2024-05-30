@@ -5,7 +5,7 @@
 </style>
 
 
-<div class="h-[90px] shadow-md w-[100%] bg-white/30 backdrop-blur-md fixed md:fixed">
+<div class="h-[90px] shadow-md w-[100%] bg-white/30 backdrop-blur-md fixed md:fixed z-10">
     <div class="flex justify-between items-center h-[100%] pl-4 pr-4">
         <div>
             <img src="/IMG-1715.PNG" alt="logo" width="100px"/>
